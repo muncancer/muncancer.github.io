@@ -11,11 +11,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Uppsala Social Robotics Lab"
+title                    : "Focus Oral Cancer 2025"
 name                     : "Uppsala Social Robotics Lab"
-description              : "The website of Uppsala Social Robotics Lab"
-url                      : https://usr-lab.github.io/
-repository               : usr-lab/usr-lab.github.io
+description              : "The website of Nätverket mot muncancer"
+url                      : https://muncancer.github.io/
+repository               : muncancer/muncancer.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_wname.png"
 masthead_title           : " "
@@ -25,29 +25,29 @@ atom_feed:
   hide: true
 
 # Social Sharing
-x-twitter:
-  username               : USR_Lab
-social:
-  type                   : Organization
-  name                   : # If the user or organization name differs from the site's name
+#x-twitter:
+#  username               : USR_Lab
+#social:
+#  type                   : Organization
+#  name                   : # If the user or organization name differs from the site's name
   links: 
-    - "https://X.com/USR_Lab"
-    - "https://www.youtube.com/@uppsalasocialroboticslab3140"
-    - "https://github.com/usr-lab"
+#    - "https://X.com/USR_Lab"
+#    - "https://www.youtube.com/@uppsalasocialroboticslab3140"
+    - "https://github.com/muncancer"
 
 
 # Site Footer
-footer:
-  links:
-    - label: "X.com"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://X.com/USR_Lab"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/usr-lab"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@uppsalasocialroboticslab3140"
+#footer:
+#  links:
+#    - label: "X.com"
+#      icon: "fab fa-fw fa-x-twitter"
+#      url: "https://X.com/USR_Lab"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/usr-lab"
+#    - label: "YouTube"
+#      icon: "fab fa-fw fa-youtube"
+#      url: "https://www.youtube.com/@uppsalasocialroboticslab3140"
 
 
 # Reading Files
