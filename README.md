@@ -4,6 +4,9 @@ Web pages for Nätverket mot muncancer
 
 ## How-to
 
+### Misc site settings
+[`_config.yml`](_config.yml)
+
 ### Add a page
 In [`_data/navigation.yml`](_data/navigation.yml) you find the `Main menu`.
 In [`assets/images`](assets/images) are all images.
