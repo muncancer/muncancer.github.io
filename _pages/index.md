@@ -8,13 +8,12 @@ header:
   overlay_filter: "0.5"
 ---
 
-# Towards Improved Prevention of Oral Cancer  
-# **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
+# Towards Improved Prevention of Oral Cancer <br/> – **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
 
 {: .text-center}
 *April is Oral Cancer Awareness Month*
 
-Join us on **April 10—11**, at beautiful [Wiks castle](venue) for two days dedicated to fighting Oral Cancer.
+Join us on **April 10–11**, at beautiful [Wiks castle](venue) for two days dedicated to fighting Oral Cancer.
 
 
 ### Organizing Committee:
@@ -29,7 +28,7 @@ Join us on **April 10—11**, at beautiful [Wiks castle](venue) for two days ded
 {% include feature_row id="feature_row_news" type="left" %}
 {% endcomment %}
 
-***February 2025:*** Dates for *Focus Oral Cancer 2025*: April 10—11
+***February 2025:*** Dates for *Focus Oral Cancer 2025*: April 10–11
 
   
 ---
