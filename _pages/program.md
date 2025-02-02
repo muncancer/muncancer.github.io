@@ -1,6 +1,6 @@
 ---
-permalink: /venue/
-title: Venue
+permalink: /program/
+title: Program
 layout: splash
 header: 
   overlay_color: "#000"
@@ -8,6 +8,8 @@ header:
   overlay_filter: "0.5"
 ---
 
-# Venue
-[Wiks slott](https://regionuppsala.se/wiks-slott/)
+# Program
+
+To be announced very soon
+
 

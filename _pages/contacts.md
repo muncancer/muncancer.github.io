@@ -7,7 +7,7 @@ layout: single
 
 ## Visiting address
  
-Room 100160, Building 10
+Room 104140, Building 10
 Department of Information Technology
 New Ångström (Lägerhyddsvägen 1)
 Uppsala
@@ -16,4 +16,4 @@ Uppsala
  
 ### Contact person:
  
-[Ginevra Castellano](http://user.it.uu.se/~ginca820/)
+[Joakim Lindblad](https://www.uu.se/en/contact-and-organisation/staff?query=N5-1054)
