@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Focus: Oral Cancer 2025"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,12 +9,12 @@ header:
 ---
 
 # Towards Improved Prevention of Oral Cancer  
-## Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
+# **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
 
 {: .text-center}
 *April is Oral Cancer Awareness Month*
 
-Join us on April 10-11, at beautiful Wiks castle for two days dedicated to fighting Oral Cancer.
+Join us on April 10-11, at beautiful [Wiks castle](venue) for two days dedicated to fighting Oral Cancer.
 
 
 ### Organizing Committee:

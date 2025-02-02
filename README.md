@@ -27,7 +27,9 @@ Place the publication picture (if any) under `assets/images/publications`, if th
 
 New: now you can add authors from outside the lab using "other".
 
-## Local Development (not needed thanks to GitHub Actions)
+
+## Local Development (not needed thanks to [GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/))
+
 Install Jekyll: [Jekyll - Installation](https://jekyllrb.com/docs/installation/)
 
 Fetch and update bundled gems: run `bundle`
