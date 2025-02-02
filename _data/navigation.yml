@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: Venue
+    url: venue/
+
+  - title: Program
+    url: program/
+    
   - title: Research
     url: research/
 
@@ -9,8 +15,8 @@ main:
   - title: Publications
     url: publications/
     
-  - title: Work with us!
-    url: work_with_us/
+#  - title: Work with us!
+#    url: work_with_us/
 
-  - title: Teachings
-    url: teachings/
+#  - title: Teachings
+#    url: teachings/
