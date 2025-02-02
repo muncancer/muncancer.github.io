@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
 ---
 
-# Towards Improved Prevention of Oral Cancer <br/> – **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
+# Towards Improved Prevention of Oral Cancer <br/> <font size="-1">– **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**</font>
 
 {: .text-center}
 *April is Oral Cancer Awareness Month*
@@ -17,10 +17,11 @@ Join us on **April 10–11**, at beautiful [Wiks castle](venue) for two days ded
 
 
 ### Organizing Committee:
+<p style="line-height: 1;">
 * **Joakim Lindblad**, Professor, Centre for Image Analysis, Dept. of Information Technology, Uppsala University
 * **Christina Runow Stark**, Dr Med Sci.. Center for Medical Dentistry, Folktandvården in Region Uppsala, Odontology and Maxillofacial Surgery, Dept. of Surgical Sciences, Uppsala University
 * **Jan-Michaél Hirsch**, Professor, Dept. of Surgical Sciences, Uppsala University, Folktandvården Stockholms län AB
-
+</p>
 
 
 ## Most recent news
