@@ -1,6 +1,6 @@
-# USR Lab Website
+# Nätverket mot muncancer
 
-This is Uppsala Social Robotics Group's Website.
+Web pages for Nätverket mot muncancer
 
 ## How-to
 ### Add a news
@@ -42,7 +42,7 @@ Longer description
 ...
 
 ```
-## Local Development
+## Local Development (not needed thanks to GitHub Actions)
 Install Jekyll: [Jekyll - Installation](https://jekyllrb.com/docs/installation/)
 
 Fetch and update bundled gems: run `bundle`
