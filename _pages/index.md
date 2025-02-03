@@ -18,8 +18,9 @@ Join us on **April 10–11**, at beautiful [Wiks castle](venue) for two days ded
 
 ### Organizing Committee:
 * **Joakim Lindblad**, Professor, Centre for Image Analysis, Dept. of Information Technology, Uppsala University
-* **Christina Runow Stark**, Dr Med Sci.. Center for Medical Dentistry, Folktandvården in Region Uppsala, Odontology and Maxillofacial Surgery, Dept. of Surgical Sciences, Uppsala University
+* **Christina Runow Stark**, Dr Med Sci., Center for Medical Dentistry, Folktandvården in Region Uppsala, Odontology and Maxillofacial Surgery, Dept. of Surgical Sciences, Uppsala University
 * **Jan-Michaél Hirsch**, Professor, Dept. of Surgical Sciences, Uppsala University, Folktandvården Stockholms län AB
+* **Bengt Hasséus**, Professor, Dept. of Oral Medicine and Pathology,Institute of Odontology, Sahlgrenska Academy, University of Gothenburg
 
 
 ## Most recent news
