@@ -15,6 +15,12 @@ header:
 
 Join us on **April 10–11**, at beautiful [Wiks castle](venue) for two days dedicated to fighting Oral Cancer.
 
+### Aim
+To share and discuss experiences, achieved results and future opportunities for prevention, early diagnosis and personalized treatment, of importance to both patients and healthcare providers, as well as to establish support for people affected by potentially malignant oral changes.
+
+### Format
+Oral and poster presentations of ongoing research, mixed with panel discussions on future potentials, all in an open and inclusive environment. 
+
 
 ### Organizing Committee:
 * **Joakim Lindblad**, Prof., Centre for Image Analysis, Dept. of Information Technology, Uppsala University
