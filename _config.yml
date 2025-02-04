@@ -1,4 +1,4 @@
-  # Site wide configuration
+# Site wide configuration
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Focus Oral Cancer 2025"
+title                    : "Focus: Oral Cancer 2025"
 name                     : "Nätverket mot muncancer"
 description              : "Towards Improved Prevention of Oral Cancer"
 url                      : https://muncancer.github.io/
