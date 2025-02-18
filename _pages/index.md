@@ -4,7 +4,7 @@ title: "Focus: Oral Cancer 2025"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_image: "assets/images/Wiks_slott.jpg"
+  overlay_image: "assets/images/CytologyCells.jpg"
   overlay_filter: "0.5"
 ---
 
