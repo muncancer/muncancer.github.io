@@ -34,7 +34,8 @@ Oral and poster presentations of ongoing research, mixed with panel discussions 
 {% include feature_row id="feature_row_news" type="left" %}
 {% endcomment %}
 
-***February 2025:*** Dates for *Focus Oral Cancer 2025*: April 10–11
+* The preliminary **[Program](program)** is up! 
+* Dates decided for *Focus Oral Cancer 2025*: April 10–11
 
   
 ---
