@@ -27,13 +27,13 @@ atom_feed:
 # Social Sharing
 #x-twitter:
 #  username               : USR_Lab
-social:
-  type                   : Organization
-  name                   : # If the user or organization name differs from the site's name
-  links: 
+#social:
+#  type                   : Organization
+#  name                   : # If the user or organization name differs from the site's name
+#  links: 
 #    - "https://X.com/USR_Lab"
 #    - "https://www.youtube.com/@uppsalasocialroboticslab3140"
-    - "https://github.com/muncancer"
+#    - "https://github.com/muncancer"
 
 
 # Site Footer
