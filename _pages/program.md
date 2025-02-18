@@ -44,14 +44,14 @@ Preliminary program, subject to change
 | --- | --- | --- |
 | 9.00 - 9.30 | _Point-of-care digital cytology with artificial intelligence for cancer screening in a resource-limited setting_ | Johan Lundin, KI & Univ. of Helsinki |
 | 9.35 - 9.55 | _Diagnostic accuracy of oral cytology and development of auxiliary tests_ | Vladimir Basic, JU |
-| 10.00 - 10.20 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
+| 10.00 - 10.20 | _Global aspects on human papillomavirus in the oral cavity – prevalence and clinical implications_ | Daniel Giglio, GU |
 | 10.25 - 11.00 | **Coffee break** \|
 | 11.00 - 11.30 | _Approaches for precision medicine at levels of nucleic acids and proteins_ | Ulf Landegren, UU |
 | 11.35 - 11.55 | _Oral precanceroses – clinical and genomic aspects, for early detection of oral cancer_ | Fredrik Jäwert, GU |
-| 12.00 - 12.20 | (to be decided on) | Mikael Åberg, UU |
+| 12.00 - 12.20 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
 | 12.30 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _The significance and importance of including patients' perspectives in Cancer research_ | Margareta Haag, Nätverket mot cancer |
-| 14.25 - 14.45 | (to be decided on) | Daniel Giglio, GU |
+| 14.25 - 14.45 | (to be decided on) | Mikael Åberg, UU |
 | 15.15 - 15.20 | **Closing** \|
 | 15.20 | **Farewell fika** \|
 ```
