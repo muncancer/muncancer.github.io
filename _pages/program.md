@@ -13,7 +13,7 @@ Preliminary program, subject to change
 
 ## Thursday 10/4
 | Time | Title | Presenter|
-|:-----------------|:---|:---|
+| --- | --- | --- |
 | 10.00 - 10.10 | Welcome! ||
 | 10.10 - 10.25 | Oral potentially malignant disorders and cancer – how common and what is the risk for cancer transformation? | Bengt Hasséus, GU |
 | 10.30 - 10.45 | Oral cancer treatment and sequelae for patient and family | Jan Hirsch, UU & Region Stockholm |
@@ -38,7 +38,7 @@ Preliminary program, subject to change
 
 ## Friday 11/4
 | Time | Title | Presenter|
-|:-----------------|:---|:---|
+| --- | --- | --- |
 | 9.00 - 9.30 | Point-of-care digital cytology with artificial intelligence for cancer screening in a resource-limited setting | Johan Lundin, KI & Univ. of Helsinki |
 | 9.35 - 9.55 | Diagnostic accuracy of oral cytology and development of auxiliary tests | Vladimir Basic, JU |
 | 10.00 - 10.20 | Advancement in molecular tools for cancer biomarker detection and characterization | Masood Kamali-Moghaddam, UU |
