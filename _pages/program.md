@@ -27,12 +27,12 @@ Preliminary program, subject to change
 | 14.25 - 14.40 | _Next generation blood sampling_ | Maryam Poorafshar, SampleFacts |
 | 14.45 - 15.00 | _The tumor microenvironment, new ways to look at immune checkpoints in the context of using isPLA_ | Doroteya Raykova, Navinci Diagnostics |
 | 15.05 - 15.30 | **Poster Flash talks: 6x4min** \|
-|^^| _Deep learning methods for efficient cell detection in digital cytology_ | Marco Acerbis, UU |
-|^^| _AI-supported digital microscopy diagnostics in primary health care_ | Joar von Bahr, KI |
-|^^| _Detection of extremely sparse key instances in whole slide cytology images via self-supervised one-class representation learning_ | Swarnadip Chatterjee, UU |
-|^^| _Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection_ | Wenyi Lian, UU |
-|^^| _Live Demo: CytoBrowser, collaborative annotation and analysis of gigapixel images in your web browser_ | Olle Edgren Schüllerqvist, UU |
-|^^| _A comparative study of brush- punch- excisional biopsy and obtained pathological diagnosis_ | Barimal Zemar, LiU |
+|| _Deep learning methods for efficient cell detection in digital cytology_ | Marco Acerbis, UU |
+|| _AI-supported digital microscopy diagnostics in primary health care_ | Joar von Bahr, KI |
+|| _Detection of extremely sparse key instances in whole slide cytology images via self-supervised one-class representation learning_ | Swarnadip Chatterjee, UU |
+|| _Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection_ | Wenyi Lian, UU |
+|| _Live Demo: CytoBrowser, collaborative annotation and analysis of gigapixel images in your web browser_ | Olle Edgren Schüllerqvist, UU |
+|| _A comparative study of brush- punch- excisional biopsy and obtained pathological diagnosis_ | Barimal Zemar, LiU |
 | 15.30 - 16.30 | **Posters and coffee** \|
 | 16.30 - 17.15 | **Panel discussion:** _Towards Improved Prevention of Oral Cancer_ | Moderator: Kjell Ivarsson |
 | 18.30 | **Dinner** \|
