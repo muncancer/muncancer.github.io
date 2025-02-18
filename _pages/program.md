@@ -12,6 +12,7 @@ header:
 Preliminary program, subject to change
 
 ## Thursday 10/4
+```table
 | Time | Title | Presenter|
 | --- | --- | --- |
 | 10.00 - 10.10 | Welcome! ||
@@ -35,8 +36,10 @@ Preliminary program, subject to change
 | 15.30 - 16.30 | Posters and coffee ||
 | 16.30 - 17.15 | Panel discussion: Towards Improved Prevention of Oral Cancer | Moderator: Kjell Ivarsson |
 | 18.30 | Dinner ||
+```
 
 ## Friday 11/4
+```table
 | Time | Title | Presenter|
 | --- | --- | --- |
 | 9.00 - 9.30 | Point-of-care digital cytology with artificial intelligence for cancer screening in a resource-limited setting | Johan Lundin, KI & Univ. of Helsinki |
@@ -51,4 +54,4 @@ Preliminary program, subject to change
 | 14.25 - 14.45 | (to be decided on) | Daniel Giglio, GU |
 | 15.15 - 15.20 | Closing ||
 | 15.20 | Farewell fika ||
-
+```
