@@ -35,7 +35,7 @@ Preliminary program, subject to change
 || _A comparative study of brush- punch- excisional biopsy and obtained pathological diagnosis_ | Barimal Zemar, LiU |
 | 15.30 - 16.15 | **Posters and coffee** \|
 | 16.20 - 16.35 | _The national cancer strategy_ | Kjell Ivarsson, Nationell cancersamordnare, SKR |
-| 16.40 - 17.15 | **Panel discussion:** _Towards Improved Prevention of Oral Cancer_ | Moderator: Kjell Ivarsson |
+| 16.40 - 17.20 | **Panel discussion:** _Towards Improved Prevention of Oral Cancer_ | Moderator: Kjell Ivarsson |
 | 18.30 | **Dinner** \|
 ```
 
