@@ -25,7 +25,7 @@ Preliminary program, subject to change
 | 12.30 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU |
 | 14.25 - 14.40 | _Next generation blood sampling_ | Maryam Poorafshar, SampleFacts |
-| 14.45 - 15.00 | _The tumor microenvironment, new ways to look at immune checkpoints in the context of using isPLA_ | Doroteya Raykova, Navinci Diagnostics |
+| 14.45 - 15.00 | _Beyond expression: new ways to study the TME with functional biomarkers_ | Doroteya Raykova, Navinci Diagnostics |
 | 15.05 - 15.30 | **Poster Flash talks: 6x4min** \|
 || _Deep learning methods for efficient cell detection in digital cytology_ | Marco Acerbis, UU |
 || _AI-supported digital microscopy diagnostics in primary health care_ | Joar von Bahr, KI |
