@@ -32,7 +32,6 @@ Preliminary program, subject to change
 || _Detection of extremely sparse key instances in whole slide cytology images via self-supervised one-class representation learning_ | Swarnadip Chatterjee, UU |
 || _Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection_ | Wenyi Lian, UU |
 || _Live Demo: CytoBrowser, collaborative annotation and analysis of gigapixel images in your web browser_ | Olle Edgren Schüllerqvist, UU |
-|| _A comparative study of brush- punch- excisional biopsy and obtained pathological diagnosis_ | Barimal Zemar, LiU |
 | 15.30 - 16.15 | **Posters and coffee** \|
 | 16.20 - 16.35 | _The national cancer strategy and the path ahead_ | Kjell Ivarsson, National cancer coordinator, SKR |
 | 16.40 - 17.20 | **Panel discussion:** _Towards Improved Prevention of Oral Cancer_ | Moderator: Kjell Ivarsson |
@@ -52,7 +51,7 @@ Preliminary program, subject to change
 | 12.00 - 12.20 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
 | 12.30 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _The significance and importance of including patients' perspectives in Cancer research_ | Margareta Haag, Nätverket mot cancer |
-| 14.25 - 14.45 | (to be decided on) | Mikael Åberg, UU |
+| 14.25 - 14.45 | _From Screening to Focus, one step closer to the clinic_ | Mikael Åberg, UU |
 | 15.15 - 15.20 | **Closing** \|
 | 15.20 | **Farewell fika** \|
 ```
