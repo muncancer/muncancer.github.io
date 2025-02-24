@@ -23,7 +23,7 @@ Preliminary program, subject to change
 | 11.30 - 12.00 | _AI-supported early cancer detection – a human-in-the-loop approach_ | Joakim Lindblad, UU |
 | 12.05 - 12.25 | _Molecular techniques for specific analysis – creating a trustworthy ground truth for AI_ | Caroline Dahlström, UU |
 | 12.30 - 14.00 | **Lunch** \|
-| 14.00 - 14.20 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU |
+| 14.00 - 14.20 | _Diagnostic accuracy of oral cytology and development of auxiliary tests_ | Vladimir Basic, JU |
 | 14.25 - 14.40 | _Next generation blood sampling_ | Maryam Poorafshar, SampleFacts |
 | 14.45 - 15.00 | _Beyond expression: new ways to study the TME with functional biomarkers_ | Doroteya Raykova, Navinci Diagnostics |
 | 15.05 - 15.25 | **Poster Flash talks: 6x3min** \|
@@ -43,11 +43,11 @@ Preliminary program, subject to change
 | Time | Title | Presenter|
 | --- | --- | --- |
 | 9.15 - 9.45 | _Point-of-care digital cytology with artificial intelligence for cancer screening in a resource-limited setting_ | Johan Lundin, KI & Univ. of Helsinki |
-| 9.50 - 10.10 | _Diagnostic accuracy of oral cytology and development of auxiliary tests_ | Vladimir Basic, JU |
+| 9.50 - 10.10 | _Oral precanceroses – clinical and genomic aspects, for early detection of oral cancer_ | Fredrik Jäwert, GU |
 | 10.15 - 10.35 | _Global aspects on human papillomavirus in the oral cavity – prevalence and clinical implications_ | Daniel Giglio, GU |
 | 10.40 - 11.00 | **Coffee break** \|
 | 11.00 - 11.30 | _Approaches for precision medicine at levels of nucleic acids and proteins_ | Ulf Landegren, UU |
-| 11.35 - 11.55 | _Oral precanceroses – clinical and genomic aspects, for early detection of oral cancer_ | Fredrik Jäwert, GU |
+| 11.35 - 11.55 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU |
 | 12.00 - 12.20 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
 | 12.30 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _The significance and importance of including patients' perspectives in Cancer research_ | Margareta Haag, Nätverket mot cancer |
