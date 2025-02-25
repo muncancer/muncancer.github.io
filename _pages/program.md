@@ -46,7 +46,7 @@ Preliminary program, subject to change
 | 9.50 - 10.10 | _Oral precanceroses – clinical and genomic aspects, for early detection of oral cancer_ | Fredrik Jäwert, GU |
 | 10.15 - 10.35 | _Global aspects on human papillomavirus in the oral cavity – prevalence and clinical implications_ | Daniel Giglio, GU |
 | 10.40 - 11.00 | **Coffee break** \|
-| 11.00 - 11.30 | _Approaches for precision medicine at levels of nucleic acids and proteins_ | Ulf Landegren, UU |
+| 11.00 - 11.30 | _Precision medicine at levels of nucleic acids and proteins_ | Ulf Landegren, UU |
 | 11.35 - 11.55 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU |
 | 12.00 - 12.20 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
 | 12.30 - 14.00 | **Lunch** \|
