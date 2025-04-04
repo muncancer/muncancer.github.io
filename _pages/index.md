@@ -13,7 +13,7 @@ header:
 {: .text-center}
 *April is Oral Cancer Awareness Month*
 
-Join us on **April 10–11**, at beautiful [Wiks castle](venue) for two days dedicated to fighting Oral Cancer.
+Join us on **April 10–11**, at beautiful [Wik's castle](venue) for two days dedicated to fighting Oral Cancer.
 
 ### Aim
 To share and discuss experiences, achieved results and future opportunities for prevention, early diagnosis and personalized treatment, of importance to both patients and healthcare providers, as well as to establish support for people affected by potentially malignant oral changes.
