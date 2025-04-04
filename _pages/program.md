@@ -19,10 +19,10 @@ Preliminary program, subject to change
 | 10.10 - 10.25 | _Oral potentially malignant disorders and cancer – how common and what is the risk for cancer transformation?_ | Bengt Hasséus, GU |
 | 10.30 - 10.45 | _Oral cancer treatment and sequelae for patient and family_ | Jan Hirsch, UU & Region Stockholm |
 | 10.50 - 11.05 | _Targeted screening to reduce the incidence of oral cancer – a longitudinal study_ | Christina Runow Stark, UU & Region Uppsala |
-| 11.10 - 11.30 | **Coffee break** \|
-| 11.30 - 12.00 | _AI-supported early cancer detection – a human-in-the-loop approach_ | Joakim Lindblad, UU |
-| 12.05 - 12.25 | _Molecular techniques for specific analysis – creating a trustworthy ground truth for AI_ | Caroline Dahlström, UU |
-| 12.30 - 14.00 | **Lunch** \|
+| 11.10 - 11.35 | **Coffee break** \|
+| 11.35 - 12.05 | _AI-supported early cancer detection – a human-in-the-loop approach_ | Joakim Lindblad, UU |
+| 12.10 - 12.30 | _Molecular techniques for specific analysis – creating a trustworthy ground truth for AI_ | Caroline Dahlström, UU |
+| 12.40 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _Diagnostic accuracy of oral cytology and development of auxiliary tests_ | Vladimir Basic, JU |
 | 14.25 - 14.40 | _The impact of remote sampling in health care research and patient management_ | Maryam Poorafshar, SampleFacts |
 | 14.45 - 15.00 | _Beyond expression: new ways to study the TME with functional biomarkers_ | Felipe Oliveira, Navinci Diagnostics |
