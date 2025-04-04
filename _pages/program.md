@@ -33,7 +33,7 @@ Preliminary program, subject to change
 || _Live Demo: CytoBrowser, collaborative annotation and analysis of gigapixel images in your web browser_ | Olle Edgren Schüllerqvist, UU |
 | 15.30 - 16.15 | **Posters and coffee** \|
 | 16.20 - 16.35 | _The national cancer strategy and the path ahead_ | Kjell Ivarsson, National cancer coordinator, SKR |
-| 16.40 - 17.20 | **Panel discussion:** _Towards Improved Prevention of Oral Cancer_ - _Mot förbättrad prevention av muncancer_ <br/> In the panel: Margateta Haag, Anna-Karin Haylock, Fredrik Jäwert, Joakim Lindblad, Masood Kamali Moghaddam |  In Swedish - på svenska <br/> Moderator: Kjell Ivarsson |
+| 16.40 - 17.20 | **Panel discussion:** _Towards Improved Prevention of Oral Cancer_ - _Mot förbättrad prevention av muncancer_ <br/> In the panel: Margateta Haag, Anna-Karin Haylock, Fredrik Jäwert, Joakim Lindblad, Masood Kamali Moghaddam |  In Swedish - på svenska <br/><br/> Moderator: Kjell Ivarsson |
 | 18.30 | **Dinner** \|
 ```
 
@@ -47,7 +47,8 @@ Preliminary program, subject to change
 | 10.40 - 11.00 | **Coffee break** \|
 | 11.00 - 11.30 | _Precision medicine at levels of nucleic acids and proteins_ | Ulf Landegren, UU |
 | 11.35 - 11.55 | _From Screening to Focus, one step closer to the clinic_ | Mikael Åberg, UU |
-| 12.00 - 12.20 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU || 12.30 - 14.00 | **Lunch** \|
+| 12.00 - 12.20 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU |
+| 12.30 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _The significance and importance of including patients' perspectives in Cancer research_ | Margareta Haag, Nätverket mot cancer |
 | 14.25 - 14.45 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
 | 15.15 - 15.20 | **Closing** \|
