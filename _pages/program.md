@@ -25,12 +25,11 @@ Preliminary program, subject to change
 | 12.30 - 14.00 | **Lunch** \|
 | 14.00 - 14.20 | _Diagnostic accuracy of oral cytology and development of auxiliary tests_ | Vladimir Basic, JU |
 | 14.25 - 14.40 | _The impact of remote sampling in health care research and patient management_ | Maryam Poorafshar, SampleFacts |
-| 14.45 - 15.00 | _Beyond expression: new ways to study the TME with functional biomarkers_ | Doroteya Raykova, Navinci Diagnostics |
-| 15.05 - 15.25 | **Poster Flash talks: 6x3min** \|
+| 14.45 - 15.00 | _Beyond expression: new ways to study the TME with functional biomarkers_ | Felipe Oliveira, Navinci Diagnostics |
+| 15.05 - 15.25 | **Poster Flash talks: 4x5min** \|
 || _Deep learning methods for efficient cell detection in digital cytology_ | Marco Acerbis, UU |
 || _AI-supported digital microscopy diagnostics in primary health care_ | Joar von Bahr, KI |
 || _Detection of extremely sparse key instances in whole slide cytology images via self-supervised one-class representation learning_ | Swarnadip Chatterjee, UU |
-|| _Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection_ | Wenyi Lian, UU |
 || _Live Demo: CytoBrowser, collaborative annotation and analysis of gigapixel images in your web browser_ | Olle Edgren Schüllerqvist, UU |
 | 15.30 - 16.15 | **Posters and coffee** \|
 | 16.20 - 16.35 | _The national cancer strategy and the path ahead_ | Kjell Ivarsson, National cancer coordinator, SKR |
