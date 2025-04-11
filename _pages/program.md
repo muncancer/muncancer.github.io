@@ -49,8 +49,8 @@ Preliminary program, subject to change
 | 11.35 - 11.55 | _From Screening to Focus, one step closer to the clinic_ | Mikael Åberg, UU |
 | 12.00 - 12.20 | _Optical coherence tomography for oral cancer detection – current landscape and perspectives_ | Neda Haj Hosseini, LiU |
 | 12.30 - 14.00 | **Lunch** \|
-| 14.00 - 14.20 | _The significance and importance of including patients' perspectives in Cancer research_ | Margareta Haag, Nätverket mot cancer |
-| 14.25 - 14.45 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
-| 15.15 - 15.20 | **Closing** \|
+| 14.05 - 14.30 | _The significance and importance of including patients' perspectives in Cancer research_ | Margareta Haag, Nätverket mot cancer |
+| 14.35 - 15.05 | _Advancement in molecular tools for cancer biomarker detection and characterization_ | Masood Kamali-Moghaddam, UU |
+| 15.10 - 15.15 | **Closing** \|
 | 15.20 | **Farewell fika** \|
 ```
