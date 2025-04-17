@@ -12,7 +12,7 @@ header:
 
 {: .text-center}
 <img src="/assets/images/Gruppfoto.jpg" alt="Group photo of attendees at Focus: Oral Cancer 2025" title="Foto Micke Hirsch" width="90%">
-Foto: Micke Hirsch
+<br/>Foto: Micke Hirsch
 
 *April is Oral Cancer Awareness Month*
 
