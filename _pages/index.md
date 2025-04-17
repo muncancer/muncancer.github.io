@@ -10,6 +10,9 @@ header:
 
 ## Towards Improved Prevention of Oral Cancer <br/> – **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
 
+<img src="/assets/images/Gruppfoto.jpg" alt="Group photo of attendees at Focus: Oral Cancer 2025" title="Foto Micke Hirsch" width="70%">
+Foto: Micke Hirsch
+
 {: .text-center}
 *April is Oral Cancer Awareness Month*
 
