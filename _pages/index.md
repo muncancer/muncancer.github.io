@@ -44,10 +44,8 @@ We greatly acknowledge generous financial support from:
 {% include feature_row id="feature_row_news" type="left" %}
 {% endcomment %}
 
-* The preliminary **[Program](program)** is up! 
-* Dates decided for *Focus Oral Cancer 2025*: April 10–11
-* Registration is closed. You should have received a confirmation email on 2025-04-04
-
+* What a great success! Thank you all for making it such! <br/>
+ We hope to see you at a future event!
   
 ---
 
