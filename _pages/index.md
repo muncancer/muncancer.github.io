@@ -37,7 +37,7 @@ Oral and poster presentations of ongoing research, mixed with panel discussions 
 We greatly acknowledge generous financial support from:
 * **[Cancerfonden](https://www.cancerfonden.se/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cancerfonden.se/"><img src="https://res.cloudinary.com/cancerfonden/image/upload/c_pad,f_auto,fl_progressive,h_35,q_100,w_225/v1544186351/assets/logo-cancerfonden_one-line_blue.png"></a>
 * **[Stiftelsen Laryngfonden](https://www.laryngfonden.se/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.laryngfonden.se/"><img src="/assets/images/laryngfonden_logo.png"></a>
-
+* **Stiftelsen Haand i Haands stipendiefond**
 
 ## Most recent news
 {% comment %}
