@@ -8,18 +8,18 @@ main:
 
   - title: Program
     url: program/
-    
-#  - title: Research
-#    url: research/
 
-#  - title: People
-#    url: people/
-    
-#  - title: Publications
-#    url: publications/
-    
-#  - title: Work with us!
-#    url: work_with_us/
+  - title: "Archive"
+    children:
+    - title: "Conference 2025"
+      url: /FOCAN2025/
 
-#  - title: Teachings
-#    url: teachings/
+FOCAN2025:
+- title: "Home"
+url: /FOCAN2025/
+
+- title: "Program"
+url: /FOCAN2025/program/
+
+- title: "Venue"
+url: /FOCAN2025/venue/

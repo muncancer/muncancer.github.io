@@ -1,6 +1,8 @@
 ---
-permalink: /
-title: "Focus: Oral Cancer 2027"
+permalink: /FOCAN2025/
+title: "Focus: Oral Cancer 2025"
+sidebar:
+  nav: "FOCAN2025"
 layout: splash
 header:
   overlay_color: "#000"
@@ -17,7 +19,7 @@ header:
 {: .text-center}
 *April is Oral Cancer Awareness Month*
 
-Join us in 2027 on **April 16–17**, at beautiful [Wik's castle](venue) for two days dedicated to fighting Oral Cancer.
+Join us on **April 10–11**, at beautiful [Wik's castle](venue) for two days dedicated to fighting Oral Cancer.
 
 ### Aim
 To share and discuss experiences, achieved results and future opportunities for prevention, early diagnosis and personalized treatment, of importance to both patients and healthcare providers, as well as to establish support for people affected by potentially malignant oral changes.
@@ -33,13 +35,19 @@ Oral and poster presentations of ongoing research, mixed with panel discussions 
 * **Bengt Hasséus**, Prof., Dept. of Oral Medicine and Pathology, Institute of Odontology, Sahlgrenska Academy, University of Gothenburg
 
 
+## Supporting organizations
+We greatly acknowledge generous financial support from:
+* **[Cancerfonden](https://www.cancerfonden.se/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cancerfonden.se/"><img src="https://res.cloudinary.com/cancerfonden/image/upload/c_pad,f_auto,fl_progressive,h_35,q_100,w_225/v1544186351/assets/logo-cancerfonden_one-line_blue.png"></a>
+* **[Stiftelsen Laryngfonden](https://www.laryngfonden.se/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.laryngfonden.se/"><img src="/assets/images/laryngfonden_logo.png"></a>
+* **Stiftelsen Haand i Haands stipendiefond**
+
 ## Most recent news
 {% comment %}
 {% include feature_row id="feature_row_news" type="left" %}
 {% endcomment %}
 
-* Based on popular request, we are organizing a second instance of *Focus: Oral Cancer*, on April 16-17, 2027 <br/>
- Web pages are in the process of being created, check back soon!
+* What a great success! Thank you all for making it such! <br/>
+ We hope to see you at a future event!
   
 ---
 
