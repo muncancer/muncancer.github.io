@@ -15,11 +15,11 @@ main:
       url: /FOCAN2025/
 
 FOCAN2025:
-- title: "Home"
-url: /FOCAN2025/
+  - title: "Home"
+    url: /FOCAN2025/
 
-- title: "Program"
-url: /FOCAN2025/program/
+  - title: "Program"
+    url: /FOCAN2025/program/
 
-- title: "Venue"
-url: /FOCAN2025/venue/
+  - title: "Venue"
+    url: /FOCAN2025/venue/
