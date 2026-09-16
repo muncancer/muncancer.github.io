@@ -38,7 +38,7 @@ Oral and poster presentations of ongoing research, mixed with panel discussions 
 {% include feature_row id="feature_row_news" type="left" %}
 {% endcomment %}
 
-* Based on popular request, we are organizing a second instance of *Focus: Oral Cancer*, on April 16-17, 2027 <br/>
+* Based on popular request, we are organizing a second instance of *Focus: Oral Cancer*, on April 15-16, 2027 <br/>
  Web pages are in the process of being created, check back soon!
   
 ---
