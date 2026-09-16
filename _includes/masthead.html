@@ -13,6 +13,7 @@
         </a>
         {% assign nav_name = page.nav | default: "main" %}
         {% assign navigation = site.data.navigation[nav_name] %}
+
         <ul class="visible-links">
           {%- for link in navigation -%}
             <li class="masthead__menu-item">
