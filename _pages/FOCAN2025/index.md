@@ -1,8 +1,7 @@
 ---
 permalink: /FOCAN2025/
 title: "Focus: Oral Cancer 2025"
-sidebar:
-  nav: "FOCAN2025"
+nav: "FOCAN2025"
 layout: splash
 header:
   overlay_color: "#000"
