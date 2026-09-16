@@ -11,8 +11,10 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+        {% assign nav_name = page.nav | default: "main" %}
+        {% assign navigation = site.data.navigation[nav_name] %}
         <ul class="visible-links">
-          {%- for link in site.data.navigation[page.nav | default: "main"] -%}
+          {%- for link in navigation -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
