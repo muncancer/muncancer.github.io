@@ -9,5 +9,5 @@ header:
 ---
 
 # Program
-The program for 2027 is still not ready.
+The program for 2027 is still in the process of being assembled.
 
