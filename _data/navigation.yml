@@ -9,8 +9,11 @@ main:
   - title: Program
     url: /program/
 
+  - pad: 4em
+
   - title: "Year 2025"
     url: /FOCAN2025/
+    description: "Archived pages"
 
 FOCAN2025:
   - title: "Home"
@@ -22,5 +25,8 @@ FOCAN2025:
   - title: "Venue"
     url: /FOCAN2025/venue/
 
+  - pad: 4em
+
   - title: "Year 2027"
     url: /
+    description: "Back to current"

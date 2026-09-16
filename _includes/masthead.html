@@ -16,9 +16,13 @@
 
         <ul class="visible-links">
           {%- for link in navigation -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+            {% if link.pad %}
+              <span style="margin-right:{{link.pad}}"></span>
+            {% else %}
+              <li class="masthead__menu-item{% if link.url contains '/FOCAN2025/' %} archive-link{% endif %}">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+            {% endif %}
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
@@ -35,4 +39,5 @@
       </nav>
     </div>
   </div>
+  {% if page.url contains '/FOCAN2025/' %}<div style="width:100vw;text-align: center;background-color:bisque;">Archived page</div>{% endif %}
 </div>
