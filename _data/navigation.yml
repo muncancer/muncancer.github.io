@@ -4,15 +4,13 @@ main:
     url: /
 
   - title: Venue
-    url: venue/
+    url: /venue/
 
   - title: Program
-    url: program/
+    url: /program/
 
-  - title: "Archive"
-    children:
-    - title: "Conference 2025"
-      url: /FOCAN2025/
+  - title: "FOCAN 2025"
+    url: /FOCAN2025/
 
 FOCAN2025:
   - title: "Home"
