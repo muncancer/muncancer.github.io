@@ -6,6 +6,7 @@ header:
   overlay_color: "#000"
   overlay_image: "assets/images/CytologyCells.jpg"
   overlay_filter: "0.5"
+excerpt: "April 15–16, Wik castle, Uppsala"
 ---
 
 ## Towards Improved Prevention of Oral Cancer <br/> – **Cytological Screening, AI Supported Diagnosis, Molecular Markers and Targeted Therapies**
@@ -17,7 +18,7 @@ header:
 {: .text-center}
 *April is Oral Cancer Awareness Month*
 
-Join us in 2027 on **April 15–16**, at beautiful [Wik's castle](venue) for two days dedicated to fighting Oral Cancer.
+Join us in 2027 on **April 15–16**, at beautiful [Wik castle](venue) for two days dedicated to fighting Oral Cancer.
 
 ### Aim
 To share and discuss experiences, achieved results and future opportunities for prevention, early diagnosis and personalized treatment, of importance to both patients and healthcare providers, as well as to establish support for people affected by potentially malignant oral changes.
